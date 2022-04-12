@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Chat-Application using React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Backend is hosted by https://chatengine.io 
+
+Example site: https://chat-app-rellik.netlify.app/
+
+![chat-app-ui](https://user-images.githubusercontent.com/75270052/162934808-cc7d2f2b-7124-4198-b79f-c3ec9f3b2438.PNG)
+
+![chat-app-dm](https://user-images.githubusercontent.com/75270052/162935387-d136601d-4745-4998-b45d-30b54314dea2.PNG)
 
 ## Available Scripts
 
